@@ -7,12 +7,12 @@ The Algebrica is a simple coding language designed for doing math. It supports b
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/algebrica-interpreter.git
+git clone https://github.com/xxgalaxyexplosionxx/Algebrica
 ```
 1. Navigate to the project directory:
 
 ```bash
-cd algebrica-interpreter
+cd Algebrica
 ```
 
 2. Install the dependencies:
@@ -20,7 +20,7 @@ cd algebrica-interpreter
 npm install
 ```
 
-Add your Algebrica code to the `src/index.alg file.`
+Add your Algebrica code to the `index.alg file.`
 
 ## Usage
 
@@ -30,7 +30,7 @@ To run the Algebrica interpreter and execute your code, use the following comman
 npm start
 ```
 
-The interpreter will read the Algebrica code from src/index.alg, import custom libraries from src/lib, and display the output of each expression.
+The interpreter will read the Algebrica code from index.alg, import custom libraries from src/lib, and display the output of each expression.
 
 ## Custom Libraries
 
