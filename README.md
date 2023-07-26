@@ -1,6 +1,6 @@
-# Algebrica Interpreter
+# Algebrica 
 
-The Algebrica Interpreter is a simple coding language designed for doing math. It supports basic arithmetic operations, custom libraries, and JavaScript code blocks to provide mathematical capabilities and flexibility.
+The Algebrica is a simple coding language designed for doing math. It supports basic arithmetic operations, custom libraries, and JavaScript code blocks to provide mathematical capabilities and flexibility.
 
 ## Getting Started
 
